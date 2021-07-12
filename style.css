@@ -523,7 +523,7 @@ h3
 	grid-template-columns: repeat(2,1fr);
 }
 }
-@media (max-width:767px)
+@media (max-width:667px)
 {
 	.services .content
 {
