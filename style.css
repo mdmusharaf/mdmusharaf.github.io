@@ -274,7 +274,7 @@ h3
 	width: 49%;
 	min-width: 49%;
 	letter-spacing: 1px;
-	text-transform:uppercase;
+	text-transform:capitalize;
 }
 .about .content .imgbox
 {
