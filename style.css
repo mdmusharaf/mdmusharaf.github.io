@@ -537,10 +537,7 @@ h3
 	margin-left: 170px;
 
 	}
-	.navigation
-	{
-		margin-bottom: 300px;
-	}
+	
 .project .content
 {
 	grid-template-columns: repeat(1,1fr);
