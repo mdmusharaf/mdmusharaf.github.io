@@ -533,9 +533,13 @@ h3
 	.navigation ul
 	{
 		padding: 20px 20px;
-	margin-bottom: 220px;
+	
 	margin-left: 170px;
 
+	}
+	.navigation
+	{
+		margin-bottom: 220px;
 	}
 .project .content
 {
