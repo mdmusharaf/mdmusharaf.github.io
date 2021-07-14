@@ -32,7 +32,7 @@ overflow-x: hidden;
 	background:var(--white2);
 	display: flex;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-start;
 	overflow: hidden;
 	transition: width 0.5s left 0.5s;
 }
@@ -534,7 +534,6 @@ h3
 	{
 		padding: 20px 20px;
 	
-	paddig-bottom:50%;
 
 	}
 	
