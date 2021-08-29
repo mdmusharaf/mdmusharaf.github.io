@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer">
     <link href="style.css" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <title>Portfolio</title>
 </head>
 <body>
@@ -46,7 +47,7 @@
             </section>
             <!-- about -->
             <section class="about adjust" id="about">
-                <div class="title">
+                <div class="title" data-aos="slide-left" data-aos-duration="1000">
                 <h2>About Me</h2>
                 </div>
                 <div class="content">
@@ -246,6 +247,12 @@
          main.classList.remove('.active');
 
         }
+         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+      {
+          AOS.init
+      }
+    </script>       
         
     </script> 
 </body>
