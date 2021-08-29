@@ -273,7 +273,8 @@ h3
 {
 	width: 49%;
 	min-width: 49%;
-        font-weight:400;
+        font-weight:500;
+	font-family:arial;
 	
 }
 .about .content .imgbox
@@ -509,6 +510,7 @@ h3
 {
 	width: 100%;
 	min-width: 100%;
+	font-size:25px;
 }
 .about .content .imgbox
 {
