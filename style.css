@@ -477,7 +477,7 @@ h3
 	.main .topbar
 	{
 		width:100% ;
-		left: 50px;
+		left: 0;
 		padding: 0 20px;
 	}
 .navigation ul
