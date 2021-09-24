@@ -460,7 +460,7 @@ h3
 	}
 	.navigation.active
 	{
-		left: 0;
+		left: 100px;
 		width: 100%;
 	
 	}
